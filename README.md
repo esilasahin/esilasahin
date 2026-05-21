@@ -1,26 +1,26 @@
-# Hi, I'm Esila 👋
+**Hi, I'm Esila 👋**
 
 I’m a Software Engineering student at Fatih Sultan Mehmet Vakif University in Istanbul, studying in English.  
 I am interested in artificial intelligence, data science, software development, cybersecurity, and technology-driven innovation.
 
-### 🎓 Education
+🎓 **Education**
 
 - **B.Sc. in Software Engineering (English)**, Fatih Sultan Mehmet Vakif University *(2023–2028)*
 
-### 📚 Programs & Achievements
+📚 **Programs & Achievements**
 
 - **Data Science Scholar**, Artificial Intelligence and Technology Academy – Google & T3 Foundation
 - **Participant**, YÖK Data Analysis School
 - **Participant**, TeknoLAB Program – ÖnderGenç TeknoGenç
 - **TEKNOFEST Finalist Certificate** *(2025)*
 
-### 🚀 Projects
+🚀 **Projects**
 
 - **Java Task Management System** – A desktop application developed using Java and Object-Oriented Programming principles. It includes a login system, admin panel, team management, project creation, and task assignment features.
 - **Pokémon Game** – A C/C++ based console game project focused on structured programming, game logic, user interaction, and algorithmic problem solving.
 - **Glosso Project** – A Unity and Large Language Model based simulation project designed to reduce public speaking anxiety, recognized as a TEKNOFEST finalist.
 
-### 🌱 Technical Interests
+🌱 **Technical Interests**
 
 - Artificial Intelligence
 - Machine Learning
@@ -31,12 +31,12 @@ I am interested in artificial intelligence, data science, software development, 
 - Cybersecurity
 - Object-Oriented Programming
 
-### 🤝 Volunteering & Leadership
+🤝 **Volunteering & Leadership**
 
-- Trainer Mentor, T3 Foundation
-- Active Member, TEKNOFEST Student Club
-- Active Member, Artificial Intelligence Student Club
-- Education Unit Coordinator, Mavi Mürekkep Club (İHH)
+- **Trainer Mentor**, T3 Foundation
+- **Active Member**, TEKNOFEST Student Club
+- **Active Member**, Artificial Intelligence Student Club
+- **Education Unit Coordinator**, Mavi Mürekkep Club (İHH)
 
 🔭 I’m currently working on **AI, data science, simulation-based projects, and software development projects**  
 🌱 I’m currently learning **machine learning, data analysis, cybersecurity, and advanced software engineering concepts**  
